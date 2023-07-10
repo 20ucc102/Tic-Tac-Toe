@@ -13,7 +13,7 @@ To run the Tic Tac Toe game on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone [repository URL]
+git clone https://github.com/GouthamReddy1216/Tic-Tac-Toe
 ```
 
 2. Navigate to the project directory:
