@@ -6,9 +6,6 @@ This is a simple Tic Tac Toe game developed using React. It provides an interact
 
 - Two-player game: Play against another player on the same device.
 - Dynamic game board: The game board updates in real-time as players make their moves.
-- Win detection: The game automatically detects winning moves and declares the winner.
-- Reset functionality: Players can reset the game board to start a new game.
-
 ## Installation
 
 To run the Tic Tac Toe game on your local machine, follow these steps:
